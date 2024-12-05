@@ -1,0 +1,55 @@
+    .navbar {
+
+        height: auto;
+        width: 100%;
+
+    }
+
+    .Espacio-Mor {
+
+
+        width: 100%;
+        height: auto;
+        background-color: violet;
+        text-align: center;
+    }
+
+
+
+    .styleBTN {
+
+        float: left;
+        width: 23.5%;
+        padding: 2%;
+        margin-right: 5px;
+        border-radius: 10px;
+
+    }
+
+    .styleBTN1 {
+        margin-left: 2.5%;
+
+    }
+
+    @media only screen and (max-width: 568px) {
+        .styleBTN {
+
+
+            margin-top: 2%;
+            width: 100%;
+
+        }
+
+        .styleBTN {
+
+            margin-left: 0%;
+        }
+
+    }
+.Espacio-Principal{
+
+    width: 75%;
+
+    
+}
+
